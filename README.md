@@ -5,4 +5,4 @@ Ill start out using asciimatics or click to make a default ui used in all games.
 I want to be able to change out csv or json file and have the game work exatly the same, 
 only with different characters or events. 
 
-This is good practive for making my work nonredundant and easy to read/understand.
+This is good practice for making my work nonredundant and easy to read/understand.
