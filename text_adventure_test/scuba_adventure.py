@@ -26,6 +26,7 @@ def intro():
         print(settings_options)
         setting_select = input()
         if setting_select == "difficulty":
+            pass
 
 
 
