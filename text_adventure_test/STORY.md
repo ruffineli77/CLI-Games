@@ -23,14 +23,14 @@ The player can jump in the water or abandon the mission.
 Each path allows the player to encounter a unique set of items, enemies, obstacles. 
 In order to progress a door must be open/revealed etc.
 
-Stealth entrance places you in the cargo hold below the gun deck. 
+Stealth entrance places you in the foscle above the gun deck. 
 Path- cargo hold > galley/spare rigging > brig > infirmary > admirals wing > captain cabin
 
 Direct entrance places you in the center of the gun deck.
-Path- gun deck > officers quarters > brig > infirmary > admirals wing > captain cabin
+Path- gun deck > officers quarters > infirmary > admirals wing > captain cabin
 
 Destroy entrance places you in the rum and powder storeroom. 
-powder storeroom > destroyed cargo hold > main deck > quarter deck > admirals wing > captains cabin
+powder storeroom > destroyed cargo hold >  > admirals wing > captains cabin
 
 3. The player leaves the open world area and faces their first progressing obstacle. 
 The player must use what they learned/gathered so far to 1 unlock a door, find a secret path, or force their way into the largest area of the ship.

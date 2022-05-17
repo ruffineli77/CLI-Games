@@ -1,5 +1,5 @@
 
-from scuba_adventure import game
+from scuba_adventure import play_game
 
 if __name__ == '__main__':
-    game()
+    play_game()
