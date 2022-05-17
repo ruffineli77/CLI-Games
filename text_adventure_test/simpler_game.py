@@ -4,7 +4,7 @@ import random
 
 # these are already made
 
-def print_pause()
+def print_pause():
     pass
 
 def select_options():
