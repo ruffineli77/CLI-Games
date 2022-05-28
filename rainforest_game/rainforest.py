@@ -210,7 +210,7 @@ def stage3(items):
             magical light. You struggle to keep up as you trip over
             branches and plants on the ground.""")
             print_pause("""Just before the light fades from your view
-            you jump out of the rainforest before a small shimmering lake.""")
+            you jump out of the rainforest before a small shimmering river.""")
             print_pause("""After taking in the view you spot a wooden boat
             on the muddy shore.""")
             print_pause("""You climb inside the boat, pick up a wooden
